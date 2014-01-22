@@ -3,10 +3,8 @@ background-color:#FEFEFE;
 color: black;
 }
 
-.break1000{
-width:500px;
-}
+.clear{clear:both}
 
-.break500{
-width:250px;
-}
+div.footer-widget{float:left}
+
+
