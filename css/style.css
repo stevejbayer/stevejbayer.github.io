@@ -2,7 +2,9 @@ html{
 background-color:#FEFEFE;
 color: black;
 }
-
+body {
+  padding-top: 50px;
+}
 .clear{clear:both}
 
 div.footer-widget{float:left;margin:1em 1em 1em 0;}
