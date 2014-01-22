@@ -5,6 +5,6 @@ color: black;
 
 .clear{clear:both}
 
-div.footer-widget{float:left}
+div.footer-widget{float:left;border-right:1em;}
 
 
